@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react'
 import { Link } from 'react-router-dom'
 import './Car.css'
+import CarsAPI from '../../services/CarsAPI'
 // import more from './more.png'
 
 const Car = ( props ) => { 
