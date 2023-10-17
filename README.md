@@ -1,4 +1,4 @@
-# WEB103 Project 4 - *Bolt Buckeet*
+# WEB103 Project 4 - *Bolt Bucket*
 
 Submitted by: **Guillermo Zendejas**
 
@@ -35,7 +35,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://github.com/GmoZen/web103_unit4_project/walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/GmoZen/web103_unit4_project/blob/main/walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with LiceCap
