@@ -10,15 +10,15 @@ import './App.css'
 const App = () => {
   let element = useRoutes([
     {
-      path: '/',
+      path: '/create',
       element: <CreateCar title='BOLT BUCKET | Customize' />
     },
     {
-      path:'/customcars',
+      path:'/',
       element: <ViewCars title='BOLT BUCKET | Custom Cars' />
     },
     {
-      path: '/customcars/:id',
+      path: '/details/:id',
       element: <CarDetails title='BOLT BUCKET | View' />
     },
     {
